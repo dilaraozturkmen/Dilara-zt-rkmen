@@ -13,6 +13,8 @@
 - 🌱 I’m currently learning Docker and Kubernetes  
 
 - 👀 I’m interested in back-end development.
+
+- 📫 How to reach me ozturkmendilara@gmail.com
   
 
 <br/>  

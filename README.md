@@ -3,19 +3,50 @@
 
 ## Junior .Net Developer
 
-### Connect with me:
-[![Linkedin Badge](https://icons8.com/icon/8808/linkedin)](https://www.linkedin.com/in/dilara-ozturkmen) 
 
-### Languages and Tools:
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[C#] : https://www.flaticon.com/free-icon/c-sharp_6132221?term=c&page=1&position=1&page=1&position=1&related_id=6132221&origin=search
-[VS Code] : (https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019)
-[![VS](https://icons8.com/icon/ezj3zaVtImPg/visual-studio)]
-[![HTML](https://icons8.com/icon/20909/html-5)]
-[![CSS](https://icons8.com/icon/7gdY5qNXaKC0/css3)]
-[![Microsoft SQL Server](https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server)]
-[![git](https://icons8.com/icon/20906/git)]
-[![github](https://icons8.com/icon/106567/github)]
+  
+
+### <div align="center">I'm Dilara, a .Net Developer 👨‍💻 gratuated from Izmir Bakircay University in 2022.🚀</div>  
+  
+
+- 🔭 I’m currently working on .Net  
+  
+
+- 🌱 I’m currently learning Docker and Kubernetes  
+
+- 👀 I’m interested in back-end development.
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+###  Languages and Tools:  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+</div>
+
+
+
+## Connect with me  
+<a href="https://linkedin.com/in/dilara-ozturkmen" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
 
 
 

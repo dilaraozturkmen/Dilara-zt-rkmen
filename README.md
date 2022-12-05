@@ -1,12 +1,8 @@
 # Hi there 👋, I'm Dilara 
 
-
-## Junior .Net Developer
-
-
   
 
--I'm a .Net Developer 👨‍💻 gratuated from Izmir Bakircay University in 2022.🚀
+-I'm a Junior .Net Developer 👨‍💻 gratuated from Izmir Bakircay University in 2022.🚀
   
 - 🔭 I’m currently developing .Net projects 
   

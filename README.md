@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently developing .Net projects 
   
-- 🌱 I’m currently learning Docker and Kubernetes  
+- 🌱 I’m currently learning Kubernetes  
 
 - 👀 I’m interested in back-end development.
 

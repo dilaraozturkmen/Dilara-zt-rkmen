@@ -5,8 +5,6 @@
 -I'm a Junior .Net Developer 👨‍💻 gratuated from Izmir Bakircay University in 2022.🚀
   
 - 🔭 I’m currently developing .Net projects 
-  
-- 🌱 I’m currently learning Kubernetes  
 
 - 👀 I’m interested in back-end development.
 

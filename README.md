@@ -2,13 +2,17 @@
 
   
 
--I'm a Junior .Net Developer 👨‍💻 gratuated from Izmir Bakircay University in 2022.🚀
+-I'm a Junior Software Engineer 👨‍💻 gratuated from Izmir Bakircay University in 2022.🚀
   
 - 🔭 I’m currently developing .Net projects 
 
 - 👀 I’m interested in back-end development.
 
+- 🌱 I’m currently learning Angular.
+
 - 📫 How to reach me ozturkmendilara@gmail.com
+
+
   
 
 <br/>  

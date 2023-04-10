@@ -8,8 +8,6 @@
 
 - 👀 I’m interested in back-end development.
 
-- 🌱 I’m currently learning Angular.
-
 - 📫 How to reach me ozturkmendilara@gmail.com
 
 
